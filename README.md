@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Aman Ali
+<h1 align="center">#👋 Hi, I'm Aman Ali<h1/>
 
 <h3 align="center">
   💻 Full Stack Web Developer | 📚 Intermediate | 🚀 Currently Learning Full Stack Development
