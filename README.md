@@ -5,23 +5,24 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=1000&color=00A8FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;I'm+Aman+Ali;Aspiring+Web+Developer;Exploring+Full+Stack+Development;Learning+%26+Building+Every+Day+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=1000&color=00A8FF&center=true&vCenter=true&width=650&lines=Building;Learning;Creating;Growing+🚀" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm **Aman Ali**, a passionate and motivated learner exploring the world of **Web Development**.  
-I'm currently focused on strengthening my fundamentals, building practical projects, and gradually expanding my skills toward **Full Stack Development**.
+I'm **Aman Ali**, a passionate and motivated learner exploring the world of **Web Development**.
 
-- 🎓 Currently pursuing **Intermediate**
+I'm currently focused on improving my development fundamentals, building practical projects, and gradually moving toward **Full Stack Development**.
+
+- 🎓 Education: **Intermediate**
 - 💻 Passionate about **Web Development**
-- 🌱 Learning modern web technologies step by step
-- 🧑‍💻 Enjoy building websites and experimenting with new ideas
+- 🌱 Currently learning and improving my coding skills
+- 🧑‍💻 Interested in building modern and responsive websites
 - 🚀 Working towards becoming a **Full Stack Developer**
-- 🧠 Focused on improving my coding, problem-solving, and development skills
-- 🎯 My goal is to turn my learning into real-world projects
+- 🧠 Focused on improving my problem-solving and development skills
+- 💡 I enjoy learning new technologies and turning ideas into projects
 
 ---
 
@@ -39,7 +40,7 @@ I'm currently focused on strengthening my fundamentals, building practical proje
 - Responsive Web Design
 - User Interface Development
 
-### ⚙️ Backend — Exploring
+### ⚙️ Backend Development — Learning
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
@@ -50,7 +51,7 @@ I'm currently focused on strengthening my fundamentals, building practical proje
 - REST APIs
 - Server-side Development
 
-### 🗄️ Database — Exploring
+### 🗄️ Database — Learning
 
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
@@ -60,7 +61,7 @@ I'm currently focused on strengthening my fundamentals, building practical proje
 - MySQL
 - Firebase
 
-### 🔧 Tools & Workflow
+### 🔧 Tools & Technologies
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman" />
@@ -70,7 +71,6 @@ I'm currently focused on strengthening my fundamentals, building practical proje
 - Visual Studio Code
 - npm
 - Postman
-- Development & Debugging
 
 ---
 
@@ -79,50 +79,51 @@ I'm currently focused on strengthening my fundamentals, building practical proje
 - 🌐 Improving my Frontend Development skills
 - ⚡ Practicing JavaScript
 - 🎨 Building responsive and user-friendly websites
-- 🔧 Learning Git and modern development workflows
+- 🔧 Learning Git & GitHub
 - ⚙️ Exploring Backend Development
-- 🗄️ Understanding databases and APIs
-- 🚀 Moving step by step toward Full Stack Development
+- 🗄️ Learning about databases and APIs
+- 🚀 Working toward Full Stack Development
 
 ---
 
 ## 💡 My Development Mindset
 
-> **Learn the fundamentals → Build projects → Solve problems → Improve → Repeat.**
+> **Learn → Build → Practice → Improve → Repeat 🚀**
 
-I believe consistent practice and real-world projects are the best way to grow as a developer.
+I believe consistent practice and real projects are the best way to grow as a developer.
 
 ---
 
 ## 🎯 My Goals
 
-- Build meaningful web projects
-- Develop strong programming fundamentals
-- Become comfortable with both Frontend and Backend
-- Learn how real-world applications are built
-- Grow into a skilled **Full Stack Developer**
-- Keep learning and improving every day 🚀
+- Build useful and meaningful web projects
+- Strengthen my programming fundamentals
+- Improve my Frontend Development skills
+- Learn Backend Development
+- Understand databases and APIs
+- Become a skilled **Full Stack Developer**
+- Keep learning and growing every day
 
 ---
 
 ## 📂 Projects
 
-I'm building projects to turn what I learn into practical experience.
+I'm building projects to turn my learning into practical experience.
 
-As I continue learning, I'll be adding more projects to my GitHub and documenting my development journey along the way.
+More projects will be added as I continue learning and improving my development skills. 🚀
 
 ---
 
 ## 📈 My GitHub Journey
 
-This profile is a record of my journey from learning the fundamentals of Web Development to becoming a confident Full Stack Developer.
+This profile represents my journey in **Web Development** — from learning the fundamentals to building real-world projects.
 
 **Learning today. Building tomorrow. Growing every day. 🚀**
 
 ---
 
-<h3 align="center">Thanks for visiting my profile! ⭐</h3>
+<h3 align="center">⭐ Thanks for visiting my profile!</h3>
 
 <p align="center">
-  <b>Keep Learning • Keep Building • Keep Growing</b>
+  <b>Keep Learning • Keep Building • Keep Growing 🚀</b>
 </p>
