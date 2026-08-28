@@ -1,93 +1,122 @@
 # 👋 Hi, I'm Aman Ali
 
-### 💻 Full Stack Web Developer | 🚀 Learning & Building
+<h3 align="center">
+  💻 Full Stack Web Developer | 📚 Intermediate | 🚀 Currently Learning Full Stack Development
+</h3>
 
-I'm **Aman**, a passionate and aspiring **Full Stack Web Developer** from Pakistan.
-
-🎓 **Education:** Intermediate
-💻 **Focus:** Full Stack Web Development
-📚 **Currently:** Learning, building projects, and improving my development skills every day.
-
----
-
-## 🚀 About Me
-
-* 🌱 Currently learning **Full Stack Web Development**
-* 💡 Interested in building modern and responsive web applications
-* 🛠️ Love learning new technologies and exploring how things work
-* 🎯 Working towards becoming a professional **Full Stack Developer**
-* 📈 Continuously improving my coding and problem-solving skills
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=Building+my+Full+Stack+Development+skills...;Learning+%7C+Building+%7C+Improving...;Turning+ideas+into+web+applications...;Future+Full+Stack+Developer+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🧑‍💻 Tech & Skills
+## 👨‍💻 About Me
 
-### Frontend
+* 🎓 **Education:** Intermediate
+* 💻 **Focus:** Full Stack Web Development
+* 🌱 **Currently Learning:** Full Stack Development
+* 🚀 Passionate about building websites and web applications
+* 🧠 Learning new technologies and improving my coding skills
+* 🎯 Working towards becoming a professional Full Stack Developer
+* ⚡ I believe in **Learning by Building**
 
-* HTML5
-* CSS3
-* JavaScript
-* Responsive Web Design
+---
 
-### Backend
+## 🛠️ Tech Stack
 
-* Node.js
-* Express.js
+### 🌐 Frontend
 
-### Database
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
 
-* MongoDB
-* MySQL
+### ⚙️ Backend
 
-### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-* Git & GitHub
-* VS Code
-* npm
+### 🗄️ Database
 
-> 🚧 My skills are continuously growing as I learn and build more projects.
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### 🔧 Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
 ## 📚 Currently Learning
 
 ```text
-Full Stack Web Development
-        ↓
 Frontend Development
         ↓
 Backend Development
         ↓
 Databases & APIs
         ↓
-Real-World Projects
+Full Stack Projects
+        ↓
+Real-World Development
 ```
+
+---
+
+## 🚀 What I'm Working On
+
+* 🌱 Improving my Full Stack Development skills
+* 💻 Building web development projects
+* 🔥 Practicing coding every day
+* 📖 Learning modern development technologies
+* 🎯 Preparing myself for a professional development career
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ## 🎯 My Goal
 
-My goal is to become a **skilled Full Stack Web Developer** by continuously learning, building real-world projects, and gaining practical experience.
+> **Learn. Build. Improve. Repeat. 🚀**
 
----
-
-## 📊 GitHub
-
-I'm using GitHub to:
-
-* 🧩 Build and showcase my projects
-* 📚 Track my learning journey
-* 🤝 Learn from other developers
-* 🚀 Improve my coding skills
+My goal is to become a skilled **Full Stack Web Developer** by continuously learning, building real-world projects, and improving my problem-solving skills.
 
 ---
 
 ## 🤝 Connect With Me
 
-If you're also learning web development, feel free to connect and learn together!
+<p align="center">
 
-**Keep Learning. Keep Building. Keep Growing. 🚀**
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-⭐ *Thanks for visiting my profile!*
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2196F3&height=100&section=footer"/>
+</p>
+
+<h3 align="center">
+  ⭐ Thanks for visiting my profile! ⭐
+</h3>
