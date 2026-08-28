@@ -1,71 +1,77 @@
-<h1 align="center">👋 Hi, I'm Aman Ali</h1>
+<h1 align="center">Hi 👋, I'm Aman Ali</h1>
+
+<h3 align="center">
+  Aspiring Web Developer | Intermediate Student | Future Full Stack Developer
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Aspiring+Web+Developer;Welcome+to+my+GitHub+Profile!;Learning+%26+Building+Every+Day;Future+Professional+Developer+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=1000&color=00A8FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Aspiring+Web+Developer;Learning+Full+Stack+Development;Building+Web+Projects;Always+Learning+and+Growing+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm **Aman Ali**, an aspiring **Web Developer** who is passionate about technology, learning new skills, and building websites.
-
-- 🎓 Education: **Intermediate**
-- 💻 Field: **Web Development**
-- 🌱 Currently learning: **Web Development**
-- 🎯 Goal: **Become a Professional Web Developer**
-- 🚀 Passionate about learning and creating new projects
+- 🎓 I'm currently studying **Intermediate**
+- 💻 I'm passionate about **Web Development**
+- 🌱 Currently learning and improving my **Full Stack Development** skills
+- 🧑‍💻 Interested in building modern and responsive web applications
+- 🚀 Working towards becoming a **Professional Full Stack Developer**
+- 💡 I enjoy learning new technologies and turning ideas into projects
+- 🎯 My goal is to continuously improve my coding and development skills
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+### 🌐 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄️ Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+</p>
+
+### 🔧 Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
 </p>
 
 ---
 
-## 📚 Currently Learning
+## 🚀 What I'm Learning
 
-- 🌐 HTML
-- 🎨 CSS
-- ⚡ JavaScript
+- 🌐 Frontend Web Development
+- ⚙️ Backend Development
+- 🗄️ Databases
+- 🔗 APIs & Backend Integration
+- 🔐 Authentication & Web Security
+- 📱 Responsive Web Design
 - 🔧 Git & GitHub
-- 💻 Modern Web Development
-
----
-
-## 🚀 My Goals
-
-- Build useful and responsive websites
-- Improve my coding skills
-- Learn modern web technologies
-- Create real-world projects
-- Grow as a professional developer
+- 🚀 Full Stack Web Development
 
 ---
 
 ## 📂 Projects
 
-I'm currently working on projects to improve my Web Development skills.
+I'm working on different web development projects to improve my skills and gain practical experience.
 
-More projects will be added as I continue learning and building. 🚀
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/muhammadamanali00-lab">
-    <img src="https://img.shields.io/badge/GitHub-muhammadamanali00--lab-black?style=for-the-badge&logo=github" />
-  </a>
-</p>
+More exciting projects will be added as I continue my development journey. 🚀
 
 ---
 
-<h3 align="center">⭐ Thanks for visiting my profile!</h3>
+## 🎯 My Goals
 
-<p align="center">
-  <b>Keep Learning • Keep Building • Keep Growing 🚀</b>
-</p>
+```text
+Learn → Build → Practice → Improve → Become a Professional Developer 🚀
