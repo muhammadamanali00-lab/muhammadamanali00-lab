@@ -1,129 +1,93 @@
-<h1 align="center">Hi 👋, I'm Aman Ali</h1>
+# 👋 Hi, I'm Aman Ali
 
-<h3 align="center">
-  Web Developer | Aspiring Full Stack Developer | Tech Enthusiast
-</h3>
+### 💻 Full Stack Web Developer | 🚀 Learning & Building
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=1000&color=00A8FF&center=true&vCenter=true&width=650&lines=Building;Learning;Creating;Growing+🚀" />
-</p>
+I'm **Aman**, a passionate and aspiring **Full Stack Web Developer** from Pakistan.
 
----
-
-## 👨‍💻 About Me
-
-I'm **Aman Ali**, a passionate and motivated learner exploring the world of **Web Development**.
-
-I'm currently focused on improving my development fundamentals, building practical projects, and gradually moving toward **Full Stack Development**.
-
-- 🎓 Education: **Intermediate**
-- 💻 Passionate about **Web Development**
-- 🌱 Currently learning and improving my coding skills
-- 🧑‍💻 Interested in building modern and responsive websites
-- 🚀 Working towards becoming a **Full Stack Developer**
-- 🧠 Focused on improving my problem-solving and development skills
-- 💡 I enjoy learning new technologies and turning ideas into projects
+🎓 **Education:** Intermediate
+💻 **Focus:** Full Stack Web Development
+📚 **Currently:** Learning, building projects, and improving my development skills every day.
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 About Me
 
-### 🌐 Frontend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
-
-- HTML5
-- CSS3
-- JavaScript
-- Responsive Web Design
-- User Interface Development
-
-### ⚙️ Backend Development — Learning
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-- Node.js
-- Express.js
-- REST APIs
-- Server-side Development
-
-### 🗄️ Database — Learning
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
-</p>
-
-- MongoDB
-- MySQL
-- Firebase
-
-### 🔧 Tools & Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman" />
-</p>
-
-- Git & GitHub
-- Visual Studio Code
-- npm
-- Postman
+* 🌱 Currently learning **Full Stack Web Development**
+* 💡 Interested in building modern and responsive web applications
+* 🛠️ Love learning new technologies and exploring how things work
+* 🎯 Working towards becoming a professional **Full Stack Developer**
+* 📈 Continuously improving my coding and problem-solving skills
 
 ---
 
-## 🚀 What I'm Currently Working On
+## 🧑‍💻 Tech & Skills
 
-- 🌐 Improving my Frontend Development skills
-- ⚡ Practicing JavaScript
-- 🎨 Building responsive and user-friendly websites
-- 🔧 Learning Git & GitHub
-- ⚙️ Exploring Backend Development
-- 🗄️ Learning about databases and APIs
-- 🚀 Working toward Full Stack Development
+### Frontend
 
----
+* HTML5
+* CSS3
+* JavaScript
+* Responsive Web Design
 
-## 💡 My Development Mindset
+### Backend
 
-> **Learn → Build → Practice → Improve → Repeat 🚀**
+* Node.js
+* Express.js
 
-I believe consistent practice and real projects are the best way to grow as a developer.
+### Database
 
----
+* MongoDB
+* MySQL
 
-## 🎯 My Goals
+### Tools
 
-- Build useful and meaningful web projects
-- Strengthen my programming fundamentals
-- Improve my Frontend Development skills
-- Learn Backend Development
-- Understand databases and APIs
-- Become a skilled **Full Stack Developer**
-- Keep learning and growing every day
+* Git & GitHub
+* VS Code
+* npm
+
+> 🚧 My skills are continuously growing as I learn and build more projects.
 
 ---
 
-## 📂 Projects
+## 📚 Currently Learning
 
-I'm building projects to turn my learning into practical experience.
-
-More projects will be added as I continue learning and improving my development skills. 🚀
+```text
+Full Stack Web Development
+        ↓
+Frontend Development
+        ↓
+Backend Development
+        ↓
+Databases & APIs
+        ↓
+Real-World Projects
+```
 
 ---
 
-## 📈 My GitHub Journey
+## 🎯 My Goal
 
-This profile represents my journey in **Web Development** — from learning the fundamentals to building real-world projects.
-
-**Learning today. Building tomorrow. Growing every day. 🚀**
+My goal is to become a **skilled Full Stack Web Developer** by continuously learning, building real-world projects, and gaining practical experience.
 
 ---
 
-<h3 align="center">⭐ Thanks for visiting my profile!</h3>
+## 📊 GitHub
 
-<p align="center">
-  <b>Keep Learning • Keep Building • Keep Growing 🚀</b>
-</p>
+I'm using GitHub to:
+
+* 🧩 Build and showcase my projects
+* 📚 Track my learning journey
+* 🤝 Learn from other developers
+* 🚀 Improve my coding skills
+
+---
+
+## 🤝 Connect With Me
+
+If you're also learning web development, feel free to connect and learn together!
+
+**Keep Learning. Keep Building. Keep Growing. 🚀**
+
+---
+
+⭐ *Thanks for visiting my profile!*
